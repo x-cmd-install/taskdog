@@ -1,0 +1,62 @@
+about:
+  description: Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
+  license: MIT
+  homepage: https://kohei-wada.github.io/taskdog/
+  head: 48394b9
+  archived: false
+  latestVersion: v0.27.0
+  collectedAt: 2026-08-29T07:25:29Z
+timeline:
+  created: 2025-10-10
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-13
+popularity:
+  star: 351
+  watcher: 4
+  fork: 33
+  release: 41
+  contributor: 16
+  pullRequest: 37
+  issue: 511
+language:
+  Python: 3219317
+  Makefile: 17017
+  Tape: 5254
+  Nix: 4864
+  Shell: 3556
+  Dockerfile: 1207
+  Mako: 635
+totalLine: 3251850
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 27
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 28
+  last90d:
+    since: 2026-05-31
+    release: 11
+    mergedPR: 174
+    openPR: 0
+    closedIssue: 62
+    openIssue: 30
+    commit: 185
+  last180d:
+    since: 2026-03-02
+    release: 26
+    mergedPR: 336
+    openPR: 0
+    closedIssue: 113
+    openIssue: 36
+    commit: 369
+  last360d:
+    since: 2025-09-03
+    release: 41
+    mergedPR: 671
+    openPR: 0
+    closedIssue: 474
+    openIssue: 37
+    commit: 1130
