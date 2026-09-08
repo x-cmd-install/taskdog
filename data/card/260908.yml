@@ -5,13 +5,13 @@ about:
   head: 95b3512
   archived: false
   latestVersion: "v0.27.0"
-  collectedAt: 2026-09-08T02:02:33Z
+  collectedAt: 2026-09-08T04:44:02Z
 timeline:
   created: 2025-10-10
   lastCommit: 2026-09-07
   lastRelease: 2026-08-13
 popularity:
-  star: 352
+  star: 351
   watcher: 4
   fork: 33
   release: 41
@@ -85,7 +85,7 @@ total:
   commit: 1135
 ---
 path: /home/runner/.x-repo/github.com/Kohei-Wada/taskdog
-collectedAt: 2026-09-08T02:02:37Z
+collectedAt: 2026-09-08T04:44:05Z
 loc:
   Python:
     code: 74329
