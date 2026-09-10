@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.27.0"
   latestRelease: "v0.27.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:44:34Z
+  collectedAt: 2026-09-10T16:46:16Z
 timeline:
   created: 2025-10-10
   lastCommit: 2026-09-08
@@ -89,7 +89,7 @@ total:
   commit: 1136
 ---
 path: /home/runner/.x-repo/github.com/Kohei-Wada/taskdog
-collectedAt: 2026-09-10T04:44:36Z
+collectedAt: 2026-09-10T16:46:19Z
 loc:
   Python:
     code: 74329
