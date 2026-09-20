@@ -4,7 +4,7 @@
 
 Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 
-![taskdog](https://repo.x-cmd.io/taskdog.svg)
+[![x-cmd/install — taskdog Code Quality Monitoring Repo Card](https://repo.x-cmd.io/taskdog.svg)](https://x-cmd.com/install/taskdog)
 
 ## Install
 
@@ -33,7 +33,7 @@ Total: **75,765** lines of code across **797** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.28.0` (2026-09-13)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **75,765** lines of code across **797** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 682 · **Open PRs**: 0 · **Closed issues**: 476 · **Open issues**: 35 · **Commits**: 1142
+- **Releases**: 42 · **Merged PRs**: 683 · **Open PRs**: 0 · **Closed issues**: 476 · **Open issues**: 35 · **Commits**: 1143
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 14 | 0 | 0 | 0 | 15 |
-| last60d | 2026-07-20 | 2 | 58 | 0 | 16 | 18 | 62 |
-| 90d | 2026-06-20 | 6 | 113 | 0 | 26 | 20 | 121 |
-| last180d | 2026-03-22 | 19 | 276 | 0 | 102 | 30 | 295 |
-| 360d | 2025-09-23 | 42 | 682 | 0 | 476 | 35 | 1142 |
-| last720d | 2024-09-28 | 42 | 682 | 0 | 476 | 35 | 1142 |
+| 30d | 2026-08-21 | 1 | 15 | 0 | 0 | 0 | 16 |
+| last60d | 2026-07-22 | 2 | 59 | 0 | 16 | 18 | 63 |
+| 90d | 2026-06-22 | 6 | 109 | 0 | 26 | 20 | 122 |
+| last180d | 2026-03-24 | 18 | 271 | 0 | 101 | 30 | 296 |
+| 360d | 2025-09-25 | 42 | 683 | 0 | 476 | 35 | 1143 |
+| last720d | 2024-09-30 | 42 | 683 | 0 | 476 | 35 | 1143 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for taskdog lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:00:24Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:01:59Z._
