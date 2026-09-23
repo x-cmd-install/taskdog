@@ -4,7 +4,7 @@
 
 Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 
-[![x-cmd/install — taskdog Code Quality Monitoring Repo Card](https://repo.x-cmd.io/taskdog.svg?lang=zh)](https://x-cmd.com/install/taskdog)
+[![x-cmd/install — taskdog Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/taskdog.svg?lang=zh)](https://x-cmd.com/install/taskdog)
 
 ## 安装
 
@@ -33,7 +33,7 @@ x install taskdog
 ## 发布
 
 - **最新版本**: `v0.28.0` (2026-09-13)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-23
 
 ## 流行度
 
@@ -41,18 +41,18 @@ x install taskdog
 
 ## 累计统计
 
-- **发布数**: 42 · **已合并 PR**: 685 · **开放 PR**: 1 · **已关闭 issue**: 476 · **开放 issue**: 35 · **提交数**: 1145
+- **发布数**: 42 · **已合并 PR**: 686 · **开放 PR**: 0 · **已关闭 issue**: 476 · **开放 issue**: 35 · **提交数**: 1146
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 17 | 1 | 0 | 0 | 17 |
-| last60d | 2026-07-24 | 2 | 58 | 1 | 16 | 18 | 43 |
-| 90d | 2026-06-24 | 6 | 110 | 1 | 26 | 20 | 115 |
-| last180d | 2026-03-26 | 15 | 271 | 1 | 100 | 29 | 288 |
-| 360d | 2025-09-27 | 42 | 685 | 1 | 476 | 35 | 1145 |
-| last720d | 2024-10-02 | 42 | 685 | 1 | 476 | 35 | 1145 |
+| 30d | 2026-08-24 | 1 | 15 | 0 | 0 | 0 | 18 |
+| last60d | 2026-07-25 | 2 | 50 | 0 | 4 | 0 | 44 |
+| 90d | 2026-06-25 | 6 | 110 | 0 | 26 | 20 | 116 |
+| last180d | 2026-03-27 | 15 | 272 | 0 | 100 | 29 | 289 |
+| 360d | 2025-09-28 | 42 | 686 | 0 | 476 | 35 | 1146 |
+| last720d | 2024-10-03 | 42 | 686 | 0 | 476 | 35 | 1146 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ taskdog 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:02:46Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:01:01Z._

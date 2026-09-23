@@ -4,7 +4,7 @@
 
 Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 
-[![x-cmd/install — taskdog Code Quality Monitoring Repo Card](https://repo.x-cmd.io/taskdog.svg)](https://x-cmd.com/install/taskdog)
+[![x-cmd/install — taskdog Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/taskdog.svg)](https://x-cmd.com/install/taskdog)
 
 ## Install
 
@@ -33,7 +33,7 @@ Total: **75,765** lines of code across **797** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.28.0` (2026-09-13)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-23
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **75,765** lines of code across **797** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 685 · **Open PRs**: 1 · **Closed issues**: 476 · **Open issues**: 35 · **Commits**: 1145
+- **Releases**: 42 · **Merged PRs**: 686 · **Open PRs**: 0 · **Closed issues**: 476 · **Open issues**: 35 · **Commits**: 1146
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 17 | 1 | 0 | 0 | 17 |
-| last60d | 2026-07-24 | 2 | 58 | 1 | 16 | 18 | 43 |
-| 90d | 2026-06-24 | 6 | 110 | 1 | 26 | 20 | 115 |
-| last180d | 2026-03-26 | 15 | 271 | 1 | 100 | 29 | 288 |
-| 360d | 2025-09-27 | 42 | 685 | 1 | 476 | 35 | 1145 |
-| last720d | 2024-10-02 | 42 | 685 | 1 | 476 | 35 | 1145 |
+| 30d | 2026-08-24 | 1 | 15 | 0 | 0 | 0 | 18 |
+| last60d | 2026-07-25 | 2 | 50 | 0 | 4 | 0 | 44 |
+| 90d | 2026-06-25 | 6 | 110 | 0 | 26 | 20 | 116 |
+| last180d | 2026-03-27 | 15 | 272 | 0 | 100 | 29 | 289 |
+| 360d | 2025-09-28 | 42 | 686 | 0 | 476 | 35 | 1146 |
+| last720d | 2024-10-03 | 42 | 686 | 0 | 476 | 35 | 1146 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for taskdog lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:02:45Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:01:01Z._
