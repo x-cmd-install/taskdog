@@ -37,7 +37,7 @@ Total: **75,765** lines of code across **797** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 355 · **Forks**: 33 · **Open issues**: 511 · **Contributors**: 16
+- **Stars**: 356 · **Forks**: 33 · **Open issues**: 511 · **Contributors**: 16
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **75,765** lines of code across **797** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 1 | 15 | 0 | 0 | 0 | 18 |
-| last60d | 2026-07-26 | 2 | 47 | 0 | 3 | 0 | 44 |
-| 90d | 2026-06-26 | 5 | 109 | 0 | 26 | 20 | 116 |
-| last180d | 2026-03-28 | 15 | 272 | 0 | 100 | 29 | 289 |
-| 360d | 2025-09-29 | 42 | 686 | 0 | 476 | 35 | 1146 |
-| last720d | 2024-10-04 | 42 | 686 | 0 | 476 | 35 | 1146 |
+| 30d | 2026-08-26 | 1 | 15 | 0 | 0 | 0 | 18 |
+| last60d | 2026-07-27 | 2 | 42 | 0 | 2 | 0 | 44 |
+| 90d | 2026-06-27 | 5 | 109 | 0 | 26 | 20 | 116 |
+| last180d | 2026-03-29 | 15 | 271 | 0 | 100 | 29 | 289 |
+| 360d | 2025-09-30 | 42 | 686 | 0 | 476 | 35 | 1146 |
+| last720d | 2024-10-05 | 42 | 686 | 0 | 476 | 35 | 1146 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for taskdog lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:48:55Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:01:57Z._
