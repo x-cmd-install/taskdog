@@ -33,7 +33,7 @@ Total: **75,980** lines of code across **798** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.28.0` (2026-09-13)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-05
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **75,980** lines of code across **798** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 691 · **Open PRs**: 0 · **Closed issues**: 477 · **Open issues**: 34 · **Commits**: 1151
+- **Releases**: 42 · **Merged PRs**: 692 · **Open PRs**: 2 · **Closed issues**: 477 · **Open issues**: 34 · **Commits**: 1152
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 17 | 0 | 0 | 0 | 15 |
-| last60d | 2026-08-06 | 2 | 39 | 0 | 2 | 0 | 34 |
-| 90d | 2026-07-07 | 5 | 107 | 0 | 27 | 19 | 114 |
-| last180d | 2026-04-08 | 14 | 265 | 0 | 101 | 28 | 279 |
-| 360d | 2025-10-10 | 42 | 691 | 0 | 477 | 34 | 1150 |
-| last720d | 2024-10-15 | 42 | 691 | 0 | 477 | 34 | 1151 |
+| 30d | 2026-09-06 | 1 | 18 | 2 | 0 | 0 | 16 |
+| last60d | 2026-08-07 | 2 | 40 | 2 | 2 | 0 | 35 |
+| 90d | 2026-07-08 | 5 | 108 | 2 | 27 | 19 | 115 |
+| last180d | 2026-04-09 | 14 | 266 | 2 | 101 | 28 | 280 |
+| 360d | 2025-10-11 | 42 | 692 | 2 | 455 | 34 | 1151 |
+| last720d | 2024-10-16 | 42 | 692 | 2 | 477 | 34 | 1152 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for taskdog lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:38:54Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:31:54Z._
