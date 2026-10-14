@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/Kohei-Wada/taskdog/releases/387766000",
-  "assets_url": "https://api.github.com/repos/Kohei-Wada/taskdog/releases/387766000/assets",
-  "upload_url": "https://uploads.github.com/repos/Kohei-Wada/taskdog/releases/387766000/assets{?name,label}",
-  "html_url": "https://github.com/Kohei-Wada/taskdog/releases/tag/v0.28.0",
-  "id": 387766000,
+  "url": "https://api.github.com/repos/Kohei-Wada/taskdog/releases/412191188",
+  "assets_url": "https://api.github.com/repos/Kohei-Wada/taskdog/releases/412191188/assets",
+  "upload_url": "https://uploads.github.com/repos/Kohei-Wada/taskdog/releases/412191188/assets{?name,label}",
+  "html_url": "https://github.com/Kohei-Wada/taskdog/releases/tag/v0.28.1",
+  "id": 412191188,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOP_tDgM4XHNbw",
-  "tag_name": "v0.28.0",
+  "node_id": "RE_kwDOP_tDgM4YkYnU",
+  "tag_name": "v0.28.1",
   "target_commitish": "main",
-  "name": "v0.28.0",
+  "name": "v0.28.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-13T02:08:00Z",
-  "updated_at": "2026-09-13T02:08:41Z",
-  "published_at": "2026-09-13T02:08:41Z",
+  "created_at": "2026-10-13T23:22:20Z",
+  "updated_at": "2026-10-13T23:23:13Z",
+  "published_at": "2026-10-13T23:23:13Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/Kohei-Wada/taskdog/tarball/v0.28.0",
-  "zipball_url": "https://api.github.com/repos/Kohei-Wada/taskdog/zipball/v0.28.0",
-  "body": "## What's Changed\n* chore(deps): bump the dev-dependencies group with 2 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1217\n* chore(deps-dev): update setuptools requirement from >=83.0.0 to >=84.0.0 by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1220\n* chore(deps): bump alembic from 1.19.0 to 1.19.1 in the production-dependencies group by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1218\n* chore(deps): update uvicorn[standard] requirement from >=0.52.1 to >=0.52.3 by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1219\n* chore: pre-commit autoupdate by @github-actions[bot] in https://github.com/Kohei-Wada/taskdog/pull/1216\n* chore(deps): bump the dev-dependencies group with 2 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1222\n* chore: pre-commit autoupdate by @github-actions[bot] in https://github.com/Kohei-Wada/taskdog/pull/1221\n* chore(deps): bump the production-dependencies group with 2 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1223\n* chore(deps): bump ruff from 0.16.4 to 0.16.5 in the dev-dependencies group by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1225\n* chore(deps): bump the production-dependencies group with 4 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1226\n* chore: pre-commit autoupdate by @github-actions[bot] in https://github.com/Kohei-Wada/taskdog/pull/1224\n* chore: pre-commit autoupdate by @github-actions[bot] in https://github.com/Kohei-Wada/taskdog/pull/1227\n* chore(deps): bump ruff from 0.16.5 to 0.16.6 in the dev-dependencies group by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1228\n* chore(deps): bump httpx2 from 2.9.1 to 2.12.0 by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1229\n* refactor(ui,mcp): drop client-side api host/port in favour of base_url by @Kohei-Wada in https://github.com/Kohei-Wada/taskdog/pull/1231\n* fix(core): run the field validator registry on task creation by @Kohei-Wada in https://github.com/Kohei-Wada/taskdog/pull/1232\n\n\n**Full Changelog**: https://github.com/Kohei-Wada/taskdog/compare/v0.27.0...v0.28.0",
-  "mentions_count": 2
+  "tarball_url": "https://api.github.com/repos/Kohei-Wada/taskdog/tarball/v0.28.1",
+  "zipball_url": "https://api.github.com/repos/Kohei-Wada/taskdog/zipball/v0.28.1",
+  "body": "## What's Changed\n* chore: pre-commit autoupdate by @github-actions[bot] in https://github.com/Kohei-Wada/taskdog/pull/1233\n* chore(deps): bump ruff from 0.16.6 to 0.16.7 in the dev-dependencies group by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1234\n* chore(deps): bump the production-dependencies group with 3 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1235\n* chore(deps): bump anyio from 4.12.1 to 4.14.2 by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1236\n* chore: pre-commit autoupdate by @github-actions[bot] in https://github.com/Kohei-Wada/taskdog/pull/1237\n* chore(deps): bump ruff from 0.16.7 to 0.16.8 in the dev-dependencies group by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1238\n* chore(deps): bump the production-dependencies group with 2 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1239\n* chore: pre-commit autoupdate by @github-actions[bot] in https://github.com/Kohei-Wada/taskdog/pull/1240\n* chore(deps): bump ruff from 0.16.8 to 0.16.9 in the dev-dependencies group by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1241\n* chore(deps): bump pyjwt, urllib3 and virtualenv to fix security alerts by @Kohei-Wada in https://github.com/Kohei-Wada/taskdog/pull/1247\n* fix(core): escape '%' in Alembic database URL and bump sqlalchemy/holidays by @Kohei-Wada in https://github.com/Kohei-Wada/taskdog/pull/1248\n* Honor Gantt task date filters independently of chart dates by @bensynapse in https://github.com/Kohei-Wada/taskdog/pull/1246\n* chore: pre-commit autoupdate by @github-actions[bot] in https://github.com/Kohei-Wada/taskdog/pull/1249\n* fix(core): include durations in statistics task summaries by @vishalhabib99 in https://github.com/Kohei-Wada/taskdog/pull/1253\n* chore: pre-commit autoupdate by @github-actions[bot] in https://github.com/Kohei-Wada/taskdog/pull/1252\n* chore(deps): bump the dev-dependencies group with 2 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1250\n* chore(deps): bump the production-dependencies group across 1 directory with 6 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1255\n\n## New Contributors\n* @bensynapse made their first contribution in https://github.com/Kohei-Wada/taskdog/pull/1246\n* @vishalhabib99 made their first contribution in https://github.com/Kohei-Wada/taskdog/pull/1253\n\n**Full Changelog**: https://github.com/Kohei-Wada/taskdog/compare/v0.28.0...v0.28.1",
+  "mentions_count": 4
 }
