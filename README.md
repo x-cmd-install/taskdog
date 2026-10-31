@@ -47,12 +47,12 @@ Total: **76,394** lines of code across **799** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 2 | 26 | 0 | 1 | 0 | 29 |
-| last60d | 2026-08-31 | 3 | 40 | 0 | 1 | 0 | 46 |
-| 90d | 2026-08-01 | 4 | 70 | 0 | 3 | 0 | 75 |
-| last180d | 2026-05-03 | 15 | 271 | 0 | 87 | 21 | 284 |
-| 360d | 2025-11-04 | 44 | 693 | 0 | 297 | 27 | 908 |
-| last720d | 2024-11-09 | 44 | 714 | 0 | 485 | 27 | 1177 |
+| 30d | 2026-10-01 | 2 | 26 | 0 | 1 | 0 | 29 |
+| last60d | 2026-09-01 | 3 | 40 | 0 | 1 | 0 | 46 |
+| 90d | 2026-08-02 | 4 | 70 | 0 | 3 | 0 | 75 |
+| last180d | 2026-05-04 | 15 | 268 | 0 | 76 | 20 | 284 |
+| 360d | 2025-11-05 | 44 | 693 | 0 | 296 | 27 | 908 |
+| last720d | 2024-11-10 | 44 | 714 | 0 | 485 | 27 | 1177 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for taskdog lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:52:02Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:39:49Z._
