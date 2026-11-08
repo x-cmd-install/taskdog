@@ -14,11 +14,11 @@ x install taskdog
 
 ## Code insight
 
-Total: **76,394** lines of code across **799** files in the top 5 languages.
+Total: **76,485** lines of code across **800** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 74,780 | 4,059 | 14,675 | 781 |
+| Python | 74,871 | 4,054 | 14,696 | 782 |
 | Json | 537 | 0 | 0 | 1 |
 | Toml | 481 | 324 | 104 | 10 |
 | Makefile | 340 | 23 | 70 | 6 |
@@ -32,27 +32,27 @@ Total: **76,394** lines of code across **799** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.29.0` (2026-10-17)
-- **Last commit**: 2026-11-02
+- **Latest**: `v0.29.1` (2026-11-08)
+- **Last commit**: 2026-11-08
 
 ## Popularity
 
-- **Stars**: 361 · **Forks**: 38 · **Open issues**: 512 · **Contributors**: 18
+- **Stars**: 361 · **Forks**: 39 · **Open issues**: 512 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 715 · **Open PRs**: 3 · **Closed issues**: 485 · **Open issues**: 27 · **Commits**: 1178
+- **Releases**: 45 · **Merged PRs**: 719 · **Open PRs**: 0 · **Closed issues**: 486 · **Open issues**: 26 · **Commits**: 1183
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 22 | 3 | 1 | 0 | 26 |
-| last60d | 2026-09-08 | 3 | 38 | 3 | 1 | 0 | 43 |
-| 90d | 2026-08-09 | 4 | 61 | 3 | 3 | 0 | 66 |
-| last180d | 2026-05-11 | 14 | 254 | 3 | 75 | 20 | 278 |
-| 360d | 2025-11-12 | 44 | 681 | 3 | 286 | 27 | 850 |
-| last720d | 2024-11-17 | 44 | 715 | 3 | 485 | 27 | 1178 |
+| 30d | 2026-10-09 | 3 | 26 | 0 | 1 | 0 | 26 |
+| last60d | 2026-09-09 | 4 | 42 | 0 | 1 | 0 | 42 |
+| 90d | 2026-08-10 | 5 | 60 | 0 | 3 | 0 | 61 |
+| last180d | 2026-05-12 | 15 | 258 | 0 | 76 | 19 | 271 |
+| 360d | 2025-11-13 | 45 | 685 | 0 | 278 | 26 | 790 |
+| last720d | 2024-11-18 | 45 | 719 | 0 | 486 | 26 | 1183 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for taskdog lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:01:20Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:03:30Z._
