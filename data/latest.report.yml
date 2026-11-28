@@ -2,100 +2,100 @@ about:
   description: "Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement."
   license: MIT
   homepage: https://kohei-wada.github.io/taskdog/
-  head: 3f58cfa
+  head: a36ba2c
   archived: false
-  latestVersion: "v0.29.1"
-  latestRelease: "v0.29.1"
+  latestVersion: "v0.30.0"
+  latestRelease: "v0.30.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:37:52Z
+  collectedAt: 2026-11-28T07:49:32Z
 timeline:
   created: 2025-10-10
-  lastCommit: 2026-11-23
-  lastVersion: 2026-11-08
-  lastRelease: 2026-11-08
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-28
   lastPrerelease: 
 popularity:
   star: 368
   watcher: 3
-  fork: 43
-  release: 45
-  contributor: 21
-  pullRequest: 784
+  fork: 42
+  release: 46
+  contributor: 22
+  pullRequest: 781
   issue: 514
 language:
-  Python: 3257244
+  Python: 3282104
   Makefile: 16959
   Tape: 5242
   Nix: 4864
   Shell: 3556
   Dockerfile: 1380
   Mako: 635
-totalBytes: 3289880
+totalBytes: 3314740
 recent:
   last30d:
-    since: 2026-10-28
-    release: 1
-    mergedPR: 17
-    openPR: 5
-    closedIssue: 0
-    openIssue: 2
-    commit: 0
+    since: 2026-10-29
+    release: 2
+    mergedPR: 20
+    openPR: 1
+    closedIssue: 1
+    openIssue: 1
+    commit: 22
   last60d:
-    since: 2026-09-28
-    release: 3
-    mergedPR: 43
-    openPR: 5
-    closedIssue: 1
-    openIssue: 2
-    commit: 0
-  last90d:
-    since: 2026-08-29
+    since: 2026-09-29
     release: 4
-    mergedPR: 60
-    openPR: 5
-    closedIssue: 1
-    openIssue: 2
-    commit: 0
+    mergedPR: 46
+    openPR: 1
+    closedIssue: 2
+    openIssue: 1
+    commit: 51
+  last90d:
+    since: 2026-08-30
+    release: 5
+    mergedPR: 63
+    openPR: 1
+    closedIssue: 2
+    openIssue: 1
+    commit: 69
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 15
-    mergedPR: 234
-    openPR: 5
+    mergedPR: 232
+    openPR: 1
     closedIssue: 76
-    openIssue: 19
-    commit: 0
+    openIssue: 17
+    commit: 252
   last360d:
-    since: 2025-12-02
-    release: 45
-    mergedPR: 624
-    openPR: 5
+    since: 2025-12-03
+    release: 46
+    mergedPR: 614
+    openPR: 1
     closedIssue: 164
-    openIssue: 26
-    commit: 0
+    openIssue: 24
+    commit: 682
   last720d:
-    since: 2024-12-07
-    release: 45
+    since: 2024-12-08
+    release: 46
     mergedPR: 731
-    openPR: 5
-    closedIssue: 488
-    openIssue: 26
-    commit: 1195
+    openPR: 1
+    closedIssue: 490
+    openIssue: 24
+    commit: 1199
 total:
-  release: 45
+  release: 46
   mergedPR: 731
-  openPR: 5
-  closedIssue: 488
-  openIssue: 26
-  commit: 1195
+  openPR: 1
+  closedIssue: 490
+  openIssue: 24
+  commit: 1199
 ---
 path: /home/runner/.x-repo/github.com/Kohei-Wada/taskdog
-collectedAt: 2026-11-27T08:37:53Z
+collectedAt: 2026-11-28T07:49:34Z
 loc:
   Python:
-    code: 75192
+    code: 75746
     comments: 4058
-    blanks: 14750
-    files: 782
+    blanks: 14835
+    files: 784
   Json:
     code: 537
     comments: 0
@@ -137,11 +137,11 @@ loc:
     blanks: 1735
     files: 23
 total:
-  code: 77749
+  code: 78303
   comments: 7673
-  blanks: 16845
-  files: 827
+  blanks: 16930
+  files: 829
 ---
 
 ---
-{"id":438065056,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOP_tDgM4aHFeg","tag_name":"v0.29.1","target_commitish":"main","name":"v0.29.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-08T06:00:45Z","updated_at":"2026-11-08T06:01:44Z","published_at":"2026-11-08T06:01:44Z","assets":[],"body":"## What's Changed\n* chore(deps): bump the production-dependencies group with 2 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1269\n* chore(deps): bump vulnerable transitive dependencies by @Kohei-Wada in https://github.com/Kohei-Wada/taskdog/pull/1277\n* chore(deps): bump pypa/gh-action-pypi-publish from 1.14.2 to 1.14.3 by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1274\n* chore(deps): bump types-python-dateutil from 2.9.0.20260807 to 2.9.0.20261021 by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1276\n* chore: pre-commit autoupdate by @github-actions[bot] in https://github.com/Kohei-Wada/taskdog/pull/1267\n* chore(deps): bump mako from 1.3.12 to 1.4.2 by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1261\n* chore(deps): bump the dev-dependencies group across 1 directory with 2 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1268\n* chore(deps): bump the production-dependencies group across 1 directory with 5 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1275\n* chore(deps): bump types-python-dateutil from 2.9.0.20261021 to 2.9.0.20261029 by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1281\n* chore(deps): bump the production-dependencies group with 3 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1280\n* chore(deps): bump the dev-dependencies group with 4 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1279\n* chore: pre-commit autoupdate by @github-actions[bot] in https://github.com/Kohei-Wada/taskdog/pull/1278\n* fix(tui): export only the tasks matching the active filter by @RClaudiuM in https://github.com/Kohei-Wada/taskdog/pull/1282\n\n## New Contributors\n* @RClaudiuM made their first contribution in https://github.com/Kohei-Wada/taskdog/pull/1282\n\n**Full Changelog**: https://github.com/Kohei-Wada/taskdog/compare/v0.29.0...v0.29.1","mentions_count":3}
+{"id":461253118,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOP_tDgM4bfin-","tag_name":"v0.30.0","target_commitish":"main","name":"v0.30.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-28T02:47:57Z","updated_at":"2026-11-28T02:48:25Z","published_at":"2026-11-28T02:48:25Z","assets":[],"body":"## What's Changed\n* fix(ci/docker): pin taskdog version in Docker images and build them in CI by @aloneangel45 in https://github.com/Kohei-Wada/taskdog/pull/1284\n* chore(deps): bump ruff from 0.17.3 to 0.17.4 in the dev-dependencies group by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1286\n* chore(deps): bump types-python-dateutil from 2.9.0.20261029 to 2.9.0.20261104 by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1288\n* chore(deps): bump pytest-asyncio from 1.4.1 to 1.4.1.post1 by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1289\n* chore(deps): bump opentelemetry-api from 1.45.1 to 1.45.2 by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1291\n* chore(deps): bump the dev-dependencies group with 2 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1292\n* chore(deps): bump the production-dependencies group across 1 directory with 7 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1293\n* chore: pre-commit autoupdate by @github-actions[bot] in https://github.com/Kohei-Wada/taskdog/pull/1285\n* feat(server/client/mcp): atomic append_task_note to prevent lost note-log updates by @officialasishkumar in https://github.com/Kohei-Wada/taskdog/pull/1294\n* chore(deps): bump ruff from 0.17.5 to 0.17.6 in the dev-dependencies group by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1297\n* chore(deps): bump the production-dependencies group with 2 updates by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1298\n* chore(deps): bump types-python-dateutil from 2.9.0.20261104 to 2.9.0.20261116 by @dependabot[bot] in https://github.com/Kohei-Wada/taskdog/pull/1300\n* fix(tui): guard gantt cache updates with generation IDs by @lyn1dev in https://github.com/Kohei-Wada/taskdog/pull/1302\n* fix(core/server): enforce MAX_NOTES_LENGTH on the total note size when appending by @mccalpink in https://github.com/Kohei-Wada/taskdog/pull/1301\n* chore: pre-commit autoupdate by @github-actions[bot] in https://github.com/Kohei-Wada/taskdog/pull/1296\n\n## New Contributors\n* @aloneangel45 made their first contribution in https://github.com/Kohei-Wada/taskdog/pull/1284\n* @officialasishkumar made their first contribution in https://github.com/Kohei-Wada/taskdog/pull/1294\n* @lyn1dev made their first contribution in https://github.com/Kohei-Wada/taskdog/pull/1302\n* @mccalpink made their first contribution in https://github.com/Kohei-Wada/taskdog/pull/1301\n\n**Full Changelog**: https://github.com/Kohei-Wada/taskdog/compare/v0.29.1...v0.30.0","mentions_count":5}

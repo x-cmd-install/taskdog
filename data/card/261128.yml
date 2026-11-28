@@ -1,0 +1,146 @@
+about:
+  description: "Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement."
+  license: MIT
+  homepage: https://kohei-wada.github.io/taskdog/
+  head: a36ba2c
+  archived: false
+  latestVersion: "v0.30.0"
+  latestRelease: "v0.30.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T07:49:32Z
+timeline:
+  created: 2025-10-10
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-28
+  lastPrerelease: 
+popularity:
+  star: 368
+  watcher: 3
+  fork: 42
+  release: 46
+  contributor: 22
+  pullRequest: 781
+  issue: 514
+language:
+  Python: 3282104
+  Makefile: 16959
+  Tape: 5242
+  Nix: 4864
+  Shell: 3556
+  Dockerfile: 1380
+  Mako: 635
+totalBytes: 3314740
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 2
+    mergedPR: 20
+    openPR: 1
+    closedIssue: 1
+    openIssue: 1
+    commit: 22
+  last60d:
+    since: 2026-09-29
+    release: 4
+    mergedPR: 46
+    openPR: 1
+    closedIssue: 2
+    openIssue: 1
+    commit: 51
+  last90d:
+    since: 2026-08-30
+    release: 5
+    mergedPR: 63
+    openPR: 1
+    closedIssue: 2
+    openIssue: 1
+    commit: 69
+  last180d:
+    since: 2026-06-01
+    release: 15
+    mergedPR: 232
+    openPR: 1
+    closedIssue: 76
+    openIssue: 17
+    commit: 252
+  last360d:
+    since: 2025-12-03
+    release: 46
+    mergedPR: 614
+    openPR: 1
+    closedIssue: 164
+    openIssue: 24
+    commit: 682
+  last720d:
+    since: 2024-12-08
+    release: 46
+    mergedPR: 731
+    openPR: 1
+    closedIssue: 490
+    openIssue: 24
+    commit: 1199
+total:
+  release: 46
+  mergedPR: 731
+  openPR: 1
+  closedIssue: 490
+  openIssue: 24
+  commit: 1199
+---
+path: /home/runner/.x-repo/github.com/Kohei-Wada/taskdog
+collectedAt: 2026-11-28T07:49:34Z
+loc:
+  Python:
+    code: 75746
+    comments: 4058
+    blanks: 14835
+    files: 784
+  Json:
+    code: 537
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 481
+    comments: 324
+    blanks: 104
+    files: 10
+  Makefile:
+    code: 340
+    comments: 23
+    blanks: 70
+    files: 6
+  Nix:
+    code: 133
+    comments: 18
+    blanks: 16
+    files: 1
+  Yaml:
+    code: 79
+    comments: 13
+    blanks: 8
+    files: 2
+  Sh:
+    code: 28
+    comments: 7
+    blanks: 5
+    files: 1
+  Dockerfile:
+    code: 21
+    comments: 18
+    blanks: 12
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2986
+    blanks: 1735
+    files: 23
+total:
+  code: 78303
+  comments: 7673
+  blanks: 16930
+  files: 829
+---
+
+---
